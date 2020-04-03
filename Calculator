@@ -1,0 +1,14 @@
+a=1.8
+b=5
+
+sum = float(a)+int(b)
+sub = float(a)-int(b)
+mul = float(a)*int(b)
+div = float(a)/int(b)
+remainder = float(a) % int(b)
+
+print('The sum of {} and {} is {}'.format(a,b,sum))
+print('The product of {} and {} is {}'.format(a,b,mul))
+print('The difference of {} and {} is {}'.format(a,b,sub))
+print('The quotient of {} and {} is {}'.format(a,b,div))
+print('The remainder of {} divided by {} is {}'.format(a,b,remainder))
