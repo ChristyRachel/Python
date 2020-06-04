@@ -1,0 +1,15 @@
+# Program to generate the sum of two random varibles.
+
+# importing the random module
+import random
+
+# random number between 0 to 9 (specific interval given)
+rand1 = (random.randint(0,9))
+print("random variable 1 =", rand1 )
+
+rand2 = (random.randint(0,9))
+print("random variable 2 =", rand2 )
+
+sum = rand1 + rand2
+
+print ("sum of the random variables =", sum )
