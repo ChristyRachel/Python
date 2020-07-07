@@ -1,2 +1,1 @@
-# Python
-Basics of Python Programming
+Programs in Python
