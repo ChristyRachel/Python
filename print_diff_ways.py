@@ -40,3 +40,6 @@ print (octal)
 
 hexadecimal = 0x101
 print (hexadecimal)
+
+a,b = 5,6
+print ("this is another way of printing {} and {}".format (a,b))
